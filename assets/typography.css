@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+
+head{
+    font-size: 150%
+}
+body{
+    font-size: 150%
+}
+
+h,td{
+    font-family: "Fira Code", monospace, "Roboto Mono" !important;
+}

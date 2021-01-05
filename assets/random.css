@@ -1,0 +1,20 @@
+.dash-spreadsheet-menu {
+    padding-bottom: 5px;
+}
+
+.export {
+    border-radius: .375rem;
+}
+
+#sidebar {
+    z-index: 100;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+    margin: 0 0 0 1.5rem
+}
+
+tr:hover > td {
+    /* background-color: rgb(248, 249, 250) !important; */
+    filter: brightness(0.95) !important;
+}
